@@ -6,3 +6,5 @@ Attempting to learn something new.
 ..1
 
 LEARNED!
+
+Continue learning..
